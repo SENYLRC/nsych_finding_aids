@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="utf-8"?><ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader langencoding="iso639-2b">
+        <eadid countrycode="US" mainagencycode="US-nsych">nsych_0001</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>Guide to Crouse Health Institutional Repository</titleproper>
+                <author>Kristine Delaney</author>
+            </titlestmt>
+            <publicationstmt>
+                <date normal="2016-12-20">December 20, 2016</date>
+                <publisher> Crouse Health</publisher>
+                <address>
+                    <addressline>765 Irving Avenue  </addressline>
+                    <addressline> Syracuse, NY 13210</addressline>
+                    <addressline>315-470-7380</addressline>
+                </address>
+            </publicationstmt>
+        </filedesc>
+        <profiledesc>
+            <creation>Finding aid created with EADitor by user nsych.</creation>
+            <langusage>Finding aid is written in English</langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Crouse Health Institutional Repository</unittitle>
+            <unitdate normal="1887/2015" type="inclusive">1887 - 2015</unitdate>
+            <abstract>Crouse Health Library manages a repository of historic materials documenting the history of Crouse Hospital and its precursors; Syracuse Hospital for Women &amp; Children, Syracuse Memorial hospital, and Crouse-Irving Memorial Hospital and their affiliated nursing schools. Items in the collection include minutes, official publications, photographs, and artifacts spanning the period of the hospital’s founding in 1887 to the present.</abstract>
+            <physdesc>
+                <extent>81.62 linear feet</extent>
+            </physdesc>
+            <langmaterial>
+                <language langcode="eng">English</language>
+            </langmaterial>
+            <origination>
+                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+            </origination>
+            <repository>
+                <corpname>Crouse Health</corpname>
+                <address>
+                    <addressline>736 Irving Avenue</addressline>
+                    <addressline>Syracuse, NY 13210</addressline>
+                </address>
+            </repository>
+        </did>
+        <prefercite>
+            <p>Crouse Hospital Library Archival Collection. Prior written permission is required for any other use of the collection from Crouse Hospital Library.</p>
+        </prefercite>
+        <accessrestrict>
+            <p>The Crouse Health archival collection is housed on-site in the hospital library and can only be accessed by staff. Researchers are encouraged to contact the library at Library@crouse.org or (315) 470-7380 concerning any collection material they would like to access for their research so that arrangements can be made.</p>
+        </accessrestrict>
+        <bioghist>
+            <p>Crouse Hospital’s history begins in 1887 with the founding, by a group of community-minded women, of the Syracuse Women’s Hospital and Training School for Nurses. It was the only hospital in the area at the time attending to the specific healthcare needs of women and children; still a strategic focus today in fulfillment of the hospital’s mission to provide the best in patient care and to promote community health. In 1902 its name changed to Syracuse Hospital for Women and Children and by 1908 the hospital began to admit men. In 1918, the name was changed to Syracuse Memorial Hospital to reflect its broader range of services. In 1929, the hospital moved to its present location on Irving Avenue. In 1946, after World War II and the establishment of a cooperative arrangement with Syracuse University’s School of Nursing, the Syracuse Memorial Hospital School of Nursing was dissolved.</p>
+            <p>Crouse-Irving Hospital, destined to merge with Syracuse Memorial, was founded by a group of physicians and investors under the leadership of Dr. William L. Wallace in 1912. In 1913 Crouse-Irving Hospital School of Nursing was founded. For many years, Syracuse Memorial Hospital and Crouse-Irving Hospital operated separately while being located across the street from each other. The two hospitals merged in 1968 into Crouse Irving Memorial Hospital. Crouse-Irving’s School of Nursing became the Crouse Irving Memorial Hospital School of Nursing at that time. Following the merger, plans were begun to expand and modernize the existing facilities. As part of the S.H.A.R.E. campaign to modernize healthcare facilities in Onondaga County, funds were raised to replace the deteriorating Crouse-Irving Hospital Building. In 1976, the Irving Unit (attached to the Memorial Unit, the former Syracuse memorial Hospital) was opened while the former Crouse-Irving Hospital was converted to an educational building for the hospital the School of Nursing, then demolished in 1991 when the present Harry and Lillian Marley Education Center opened. In June 1996, a new name was announced, changing Crouse Irving Memorial Hospital to Crouse Hospital. In 2015 the Crouse Hospital School of Nursing was renamed the Bill and Sandra Pomeroy College of Nursing at Crouse Hospital.</p>
+            <p>The development of the hospital, its services to the Syracuse community, education of nurses and trends in healthcare delivery is documented in the archival collections housed in the Crouse Hospital Library.</p>
+        </bioghist>
+        <controlaccess>
+            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+        </controlaccess>
+        <scopecontent>
+            <p>The collection consists of items transferred to Crouse Hospital Library and covers the period of the hospitals founding in 1887 to present day. After re-location to the Marley Education Center in the spring of 1991, all material related to the hospital was re-housed in acid-free materials during an archives organization project. Materials are arranged into the following series which as closely as possible reflects the document’s department of origin:</p>
+        <arrangement>
+                <list>
+                    
+                    <item>Annual Reports (1888-1999)</item>
+                    <item>Administration (1892- 1993)</item>
+                    <item>Artifacts (1895-1985)</item>
+                    <item>Auxiliary, Harmony Circle, Other Affiliated Groups (1888-1992)</item>
+                    <item>Board of Trustees including minutes, reports, and biographies of members (1887-1990)</item>
+                    <item>Bulletins</item>
+                    <item>Crouse Irving School of Nursing (1887-1999)</item>
+                    <item>Department Papers (1958-2000)</item>
+                    <item>Financial including audits (1913-1930)</item>
+                    <item>Crouse Health Foundation including campaign literature (1926-1997)</item>
+                    <item>General History (1887-1990) Includes commemorative publications and reprints</item>
+                    <item>Other Publications (1930-1999)</item>
+                    <item>Permits and Licenses (1913-1930)</item>
+                    <item>Photographs (1984-1997)</item>
+                    <item>Physician’s Papers (1899-1900)</item>
+                    <item>Planning and Feasibility Studies for Facilities (1917)</item>
+                    <item>Plaques (1966)</item>
+                    <item>Scrapbooks (1925-1996)</item>
+                </list>
+            
+            </arrangement>
+        </scopecontent>
+        <userestrict>
+            <p>Collection information may be used for educational purposes, as long as it is not altered in any way.</p>
+        </userestrict>
+        <dsc>
+            <c id="c_1d02cb5dbbcc5c12bfd7d81a9203dc6b" level="recordgrp">
+                <did>
+                    <unittitle>Annual Reports </unittitle>
+                    <unitdate normal="1888/1999">1888 - 1999</unitdate>
+                </did>
+                <arrangement>
+                    <p>Components arranged by format. </p>
+                </arrangement>
+                <c id="c_9a6eeabafa1445a67d8f228382edd973" level="series">
+                    <did>
+                        <unittitle>Published/Bound Annual Reports</unittitle>
+                        <unitdate normal="1888/1989">1888 - 1989</unitdate>
+                        <abstract>Published and bound Annual Reports from the Syracuse Hospital for Women and Children, Syracuse Memorial Hospital, and Crouse Irving Memorial Hospital. </abstract>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physdesc>
+                            <genreform>Bound Volumes </genreform>
+                        </physdesc>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_b9be56fcaa3a7f5521111b04094d411e" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports</unittitle>
+                            <unitdate normal="1888/1905">1888 - 1905</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            </origination>
+                            <physloc/>
+                        </did>
+                        <scopecontent>
+                            <p>Each report Includes hospital and nursing school administrative staff, the constitution, association members, bylaws, hospital charging system, annual reports of the secretary, treasurer, and superintendent, assets &amp; liabilities, gifts and donations, nursing school graduates and state of the nursing school.</p>
+                        </scopecontent>
+                        <odd>
+                            <p>See index located with the Annual Reports monograph 1888-1905 for tuberculosis info.</p>
+                        </odd>
+                    </c>
+                    <c id="c_462a6cfe6cf0732cc9f30bf88df93198" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1907/1917">1907 - 1917</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_c1a25d1ce0ac2ae4d71956a543cb7696" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1918/1928">1918 - 1928</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_471905318ba300bdb359a3973372729f" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1929/1937">1929 - 1937</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_44298b5a9cad5544eedbd5f423f311fc" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1938/1949">1938 - 1949</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_1d9ca52c19c61aa2a2af5b99f9c85fd1" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1975/1983">1975 - 1983</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_88efd32ec1eb14e8af5d6576e1ac37d1" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1975/1989">1975 - 1989</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_159caa203ed6346126fdfa2df6956a2e" level="series">
+                    <did>
+                        <unittitle>Published/Unbound Annual Reports</unittitle>
+                        <unitdate normal="1888/1999">1888 - 1999</unitdate>
+                        <abstract>The published and unbound Annual Reports of the Syracuse Hospital for Women and Children, Syracuse Memorial Hospital, Crouse Irving Memorial Hospital, and Crouse Hospital. </abstract>
+                        <container type="box">0001</container>
+                        <container type="box">0002</container>
+                        <container type="box">0003</container>
+                        <container type="box">0004</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_f9d210462b966a94eef79715b7473d48" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1888/1916">1888 - 1916</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            </origination>
+                            <container type="box">0001</container>
+                        </did>
+                    </c>
+                    <c id="c_4c352de39322f6c02b94910bb27063c0" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1919/1937">1919 - 1937</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                            <container type="box">0002</container>
+                        </did>
+                    </c>
+                    <c id="c_e426e20b69eb649dd802bb079a54739a" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1939/1986">1939 - 1986</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                            <container type="box">0003</container>
+                        </did>
+                    </c>
+                    <c id="c_8fda803e4903c1de189e5c402e1c652b" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports </unittitle>
+                            <unitdate normal="1987/1999">1987 - 1999</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                            <container type="box">0004</container>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_ed63a3fccdd5b6fe953e169a4fed4df4" level="series">
+                    <did>
+                        <unittitle>Unpublished/Unbound Annual Reports </unittitle>
+                        <unitdate normal="1942/1960">1942 - 1960</unitdate>
+                        <abstract>The Annual Reports of the Superintendent to the Board of Trustees of the Syracuse Memorial Hospital. </abstract>
+                        <container type="box">0005</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname>Superintendent of the Syracuse Memorial Hospital </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                        <container type="box">0006</container>
+                        <container type="box">0007</container>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_6690b50255ab4865ff0c2b9cf6e9a6f1" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports</unittitle>
+                            <unitdate normal="1942/1950">1942 - 1950</unitdate>
+                            <container type="box">0005</container>
+                        </did>
+                    </c>
+                    <c id="c_0a2cda83f5db6e21253ba452f6abb846" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports</unittitle>
+                            <unitdate normal="1951/1956">1951 - 1956</unitdate>
+                            <container type="box">0006</container>
+                        </did>
+                    </c>
+                    <c id="c_fa97634246b7da38d9f392ef75e4e4ae" level="subgrp">
+                        <did>
+                            <unittitle>Annual Reports</unittitle>
+                            <unitdate normal="1957/1960">1957 - 1960</unitdate>
+                            <container type="box">0007</container>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_10c0587f88848737ce23f3e09469a80e" level="recordgrp">
+                <did>
+                    <unittitle>Administration</unittitle>
+                    <unitdate normal="1892/1993">1892 - 1993</unitdate>
+                </did>
+            </c>
+            <c id="c_c2a90af02721fef74bc97d378bd79c17" level="recordgrp">
+                <did>
+                    <unittitle>Artifacts </unittitle>
+                    <unitdate normal="1895/1985">1895 - 1985</unitdate>
+                </did>
+                <c id="c_e05e8fcc47098afef259b3997efc588c" level="series">
+                    <did>
+                        <unittitle>Physical artifacts from the Syracuse Hospital for Women &amp; Children, Syracuse Memorial Hospital, Crouse-Irving Hospital, and Crouse Irving Memorial Hospital. </unittitle>
+                        <unitdate normal="1895/1985">1895 - 1985</unitdate>
+                        <abstract>A variety of artifacts from the Syracuse Hospital for Women &amp; Children, Syracuse Memorial Hospital, Crouse-Irving Hospital, and Crouse Irving Memorial Hospital. </abstract>
+                        <container type="box">0115</container>
+                        <container type="box">0116</container>
+                        <container type="box">0117</container>
+                        <container type="box">0118</container>
+                        <container type="box">0119</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+            </c>
+            <c id="c_e6887a3c2ffb03502c4273164358580d" level="recordgrp">
+                <did>
+                    <unittitle>Auxiliary/Harmony Circle/Other Affiliated Groups</unittitle>
+                    <unitdate normal="1888/1992">1888 - 1992</unitdate>
+                </did>
+                <c id="c_0aa6fdc3e1cc5b286294ef658225ee35" level="series">
+                    <did>
+                        <unittitle>Publications </unittitle>
+                        <unitdate normal="1888/1994">1888 - 1994</unitdate>
+                        <abstract>Materials published by the Auxiliary/Harmony Circle/Other Affiliated Groups. </abstract>
+                        <container type="box">0043</container>
+                        <origination>
+                            <corpname>Harmony Circle </corpname>
+                            <corpname>Syracuse Memorial Hospital Men's Association </corpname>
+                            <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                        </origination>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                    <c id="c_6a774d8af4893b98001d79b1537c4f0d" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle 1888-1938</unittitle>
+                            <unitdate normal="1888/1938">1888 - 1938</unitdate>
+                            <origination>
+                                <corpname>Harmony Circle </corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                            <abstract>Three copies. </abstract>
+                        </did>
+                    </c>
+                    <c id="c_6ecd8f4b94f6e212abd7b30094b7e6d5" level="subgrp">
+                        <did>
+                            <unittitle>The Clock Tower</unittitle>
+                            <unitdate normal="1976/1984">1976 - 1984</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                            </origination>
+                            <abstract>Newsletter of the Crouse Irving Memorial Hospital Auxiliary.</abstract>
+                        </did>
+                    </c>
+                    <c id="c_f49d0b1d563ee2786478f7065aba37b8" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle Clippings, Minutes, Ephemera </unittitle>
+                            <unitdate normal="1937">1937</unitdate>
+                            <origination>
+                                <corpname>Harmony Circle </corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5baaf19c785a478a895177288f34672d" level="subgrp">
+                        <did>
+                            <unittitle>Syracuse Memorial Hospital Men's Association </unittitle>
+                            <unitdate normal="1947">1947</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                                <corpname>Syracuse Memorial Hospital Men's Association </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_da1b27c6b0cd4297180ae2ae1d32df57" level="subgrp">
+                        <did>
+                            <unittitle>Auxiliary Invitation s</unittitle>
+                            <unitdate normal="1935/1973">1935 - 1973</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Harmony Circle </corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                                <corpname>Crouse-Irving Women's Auxiliary </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_4ae43bbd3d1a23a00d2d2fff6e9bc9bb" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle Annual Reports </unittitle>
+                            <unitdate normal="1951/1954">1951 - 1954</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                                <corpname>Harmony Circle </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5132929a610516c9671e524b5db8dd95" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle Newsletters</unittitle>
+                            <unitdate normal="1952/1972">1952 - 1972</unitdate>
+                            <origination>
+                                <corpname>Harmony Circle </corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_0cd021e9f566e78a1303587c9438a3bc" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle History </unittitle>
+                            <unitdate normal="1972">1972</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Harmony Circle </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_c1aceb3e9f0eb0884af271600c742ec9" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle Brochure </unittitle>
+                            <unitdate normal="1968">1968</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Harmony Circle </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_79d8ad1b13eca10dec949da073c0943e" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle PR, by-laws, memos</unittitle>
+                            <unitdate normal="1970/1971">1970 - 1971</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Harmony Circle </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_71aa476215723994d1d2e5fb4540dd3a" level="subgrp">
+                        <did>
+                            <unittitle>7th Annual Lights of Love Lighting Ceremony Program</unittitle>
+                            <unitdate normal="1994-11-28">November 28, 1994</unitdate>
+                            <origination>
+                                <corpname>Crouse Irving Memorial Auxiliary </corpname>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5238f75db9c52073e4fe44ad4a0b464d" level="subgrp">
+                        <did>
+                            <unittitle>Harmony Circle Cookbook</unittitle>
+                            <unitdate normal="1903">1903</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                                <corpname>Harmony Circle </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_29956523e722aae3494f2d02d4f02477" level="series">
+                    <did>
+                        <unittitle>Auxiliary Scrapbooks </unittitle>
+                        <unitdate normal="1973/1981">1973 - 1981</unitdate>
+                        <abstract>Scrapbook created by the Crouse Irving Memorial Hospital Auxiliary.</abstract>
+                        <container type="box">0044</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                </c>
+                <c id="c_4a3ae1e1c907b6f86bb654a95373497e" level="series">
+                    <did>
+                        <unittitle>Auxiliary Scapbook and Newsletters </unittitle>
+                        <unitdate normal="1958/1991">1958 - 1991</unitdate>
+                        <abstract>Scrapbook created by the Crouse-Irving Hospital Auxiliary and copies of the Crouse Irving Memorial Hospital Auxiliary's newsletter, The ClockTower. </abstract>
+                        <container type="box">0045</container>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                    </did>
+                    <c id="c_b1019f2b5fe523dbb925ab2c3581534c" level="subgrp">
+                        <did>
+                            <unittitle>Scrapbook</unittitle>
+                            <unitdate normal="1958/1969">1958 - 1969</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                                <corpname>Crouse-Irving Hospital Auxiliary </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_74094612035c4a6745138e655e099b15" level="subgrp">
+                        <did>
+                            <unittitle>The ClockTower </unittitle>
+                            <unitdate normal="1975/1991">1975 - 1991</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_e4c7d59d446ac44ad6e1c3dc2159ee63" level="series">
+                    <did>
+                        <unittitle>Scrapbook </unittitle>
+                        <unitdate normal="1949/1969">1949 - 1969</unitdate>
+                        <abstract>Scrapbook created by the Syracuse Memorial Hospital Auxiliary.</abstract>
+                        <container type="box">0083</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <physloc>Crouse Health Library Archive </physloc>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname>Syracuse Memorial Hospital Auxiliary </corpname>
+                        </origination>
+                    </did>
+                </c>
+                <c id="c_f9a6efeed9038901c064452bd92fcc42" level="series">
+                    <did>
+                        <unittitle>Scapbooks </unittitle>
+                        <unitdate normal="1919/1958">1919 - 1958</unitdate>
+                        <abstract>Scrapbooks created by the Crouse-Irving Hospital Auxiliary.</abstract>
+                        <container type="box">0082</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname>Crouse-Irving Hospital Auxiliary </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+                <c id="c_4b172324841277b054aaf5b527816205" level="series">
+                    <did>
+                        <unittitle>Crouse-Irving Auxiliary History </unittitle>
+                        <unitdate normal="1967/1973">1967 - 1973</unitdate>
+                        <abstract>History of the Crouse Irving Memorial Hospital Auxiliary. </abstract>
+                        <container type="box">0084</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+                <c id="c_e24cfeaeedeef0ec4e26cc45d15e7c38" level="series">
+                    <did>
+                        <unittitle>Harmony Circle/Auxiliary Minutes </unittitle>
+                        <unitdate normal="1911/1994">1911 - 1994</unitdate>
+                        <abstract>Minutes from the meeting of the Harmony Circle Auxiliary.</abstract>
+                        <container type="box">0046</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname>Harmony Circle Auxiliary </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+                <c id="c_0cad64d43a7e2ec70a3e8eb86b0f0cd3" level="series">
+                    <did>
+                        <unittitle>Auxiliary History </unittitle>
+                        <unitdate normal="1959/1992">1959 - 1992</unitdate>
+                        <abstract>Materials related to the history of the Crouse-Irving Hospital Auxiliary and the Crouse Irving Memorial Hospital Auxiliary. </abstract>
+                        <container type="box">0047</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname>Crouse-Irving Hospital Auxiliary </corpname>
+                            <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+                <c id="c_6045fae649db9968df0bcd07ae020e09" level="series">
+                    <did>
+                        <unittitle>Unboxed Materials </unittitle>
+                        <unitdate normal="1913/1980">1913 - 1980</unitdate>
+                        <abstract>Unboxed materials associated with the Crouse Irving Memorial Hospital Auxiliary, the Syracuse Memorial Hospital Auxiliary, and the Crouse-Irving Hospital Auxiliary. </abstract>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname>Crouse Irving Memorial Hospital Auxiliary </corpname>
+                            <corpname>Syracuse Memorial Hospital Auxiliary </corpname>
+                            <corpname>Crouse-Irving Hospital Auxiliary </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_9b55cf42f94b34559255206db43e1969" level="subgrp">
+                        <did>
+                            <unittitle>Oversized color photograph of members </unittitle>
+                            <unitdate normal="1980">1980</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_d618cfb9a072b0e24c86a8a7f68ad505" level="subgrp">
+                        <did>
+                            <unittitle>Photograph of the Harmony Square/SMH Coffee Shop Donors </unittitle>
+                            <unitdate normal="1961">1961</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_42fc2ebf1165e13890e4143263354e77" level="subgrp">
+                        <did>
+                            <unittitle>Crouse-Irving Hospital Auxiliary Minutes </unittitle>
+                            <unitdate normal="1913/1929">1913 - 1929</unitdate>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_7cf1d1946d049373a9494d487950a7dc" level="recordgrp">
+                <did>
+                    <unittitle>Board of Trustees </unittitle>
+                    <unitdate normal="1887/1990">1887 - 1990</unitdate>
+                </did>
+                <c id="c_09eef159c8d23dbeb1a607e87705ea91" level="series">
+                    <did>
+                        <unittitle>Quarterly and Annual Meetings </unittitle>
+                        <unitdate normal="1887/1906">1887 - 1906</unitdate>
+                        <container type="box">0063</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives</physloc>
+                        <abstract>Transcripts from the Syracuse Hospital for Women and Children Organization (Quarterly and Annual) Meetings.</abstract>
+                    </did>
+                </c>
+                <c id="c_ca37ecb469e2457a3474858f934ded84" level="series">
+                    <did>
+                        <unittitle>Minutes of Meetings </unittitle>
+                        <unitdate normal="1947/1989">1947 - 1989</unitdate>
+                        <abstract>Minutes of Meetings for the Crouse-Irving Hospital Board of Trustees and the Crouse Irving Memorial Hospital Board of Trustees.</abstract>
+                        <container type="box">0064</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                </c>
+                <c id="c_1dd7ad3ca1c5b3787e2858be0dc7129f" level="series">
+                    <did>
+                        <unittitle>Manual &amp; Member List </unittitle>
+                        <unitdate normal="1887/1990">1887 - 1990</unitdate>
+                        <abstract>Crouse Irving Memorial Hospital Board of Trustees Manuals and Syracuse Memorial Hospital Board of Trustees Member List.</abstract>
+                        <container type="box">0065</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <physloc>Crouse Health Library Archive </physloc>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                        </origination>
+                    </did>
+                    <c id="c_d03e80dd1c57f5ae698ac242a4cf655f" level="subgrp">
+                        <did>
+                            <unittitle>Manual </unittitle>
+                            <unitdate>1989</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_7c9e285c8877e6c7c63fc149da7f145e" level="subgrp">
+                        <did>
+                            <unittitle>Manual </unittitle>
+                            <unitdate normal="1990">1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_d1bf8d61e8b3d4e842c4d550be08ee85" level="subgrp">
+                        <did>
+                            <unittitle>Board of Trustees List </unittitle>
+                            <unitdate normal="1887/1964">1887 - 1964</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_dfbda3b28dbe75112025d8e1fe2f5776" level="series">
+                    <did>
+                        <unittitle>Bound Volumes of Meeting Minutes </unittitle>
+                        <unitdate normal="1887/1988">1887 - 1988</unitdate>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                        </origination>
+                        <physdesc>
+                            <genreform>Bound Volumes </genreform>
+                        </physdesc>
+                        <physloc>Crouse Health Library Archives</physloc>
+                        <abstract>Bound volumes of Meeting Minutes for the Syracuse Hospital for Women and Children, Syracuse Memorial Hospital, Crouse-Irving Hospital, and Crouse-Irving Memorial Hospital. </abstract>
+                    </did>
+                    <c id="c_de95d082fdb94d101ffd661d2e81645e" level="subgrp">
+                        <did>
+                            <unittitle>Syracuse Memorial Hospital Board of Trustee Minutes </unittitle>
+                            <unitdate normal="1887/1950">1887 - 1950</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_bd58db9d01d36e7c3557f5af3825717d" level="subgrp">
+                        <did>
+                            <unittitle>Executive Committee Minutes </unittitle>
+                            <unitdate normal="1951/1953">1951 - 1953</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_95fa81d858952f17fe9609e9f1046b1f" level="subgrp">
+                        <did>
+                            <unittitle>Attendance Ledgers </unittitle>
+                            <unitdate normal="1953/1970">1953 - 1970</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_32ff68ce34c0eb06da9ebccbce57d4f2" level="subgrp">
+                        <did>
+                            <unittitle>Executive Committee Minutes </unittitle>
+                            <unitdate normal="1965/1968">1965 - 1968</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_43a70d5ad3bb2e4483b8fb20131db67a" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Memorial Hospital Board Minutes </unittitle>
+                            <unitdate normal="1968/1978">1968 - 1978</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_b0b1066dd67aff971f878b69876c9930" level="subgrp">
+                        <did>
+                            <unittitle>Joint Conference Committee 1979</unittitle>
+                            <unitdate normal="1979">1979</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5f03f3a826643050e12664c2ad2421ad" level="subgrp">
+                        <did>
+                            <unittitle>Joint Conference Committee </unittitle>
+                            <unitdate normal="1980/1990">1980 - 1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_64f5e9e933716d7dfad618ab00f20b9e" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Memorial Hospital Board of Trustees Manual </unittitle>
+                            <unitdate normal="1989/1990">1989 - 1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_6e393ebf0dbbbd6044351afb18b964bc" level="subgrp">
+                        <did>
+                            <unittitle>Crouse-Irving Hospital Board of Trustees Minutes </unittitle>
+                            <unitdate normal="1913/1962">1913 - 1962</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_574a56fa019d691fb00c301aa2dca3bd" level="subgrp">
+                        <did>
+                            <unittitle>Hospital Planning Joint Committee </unittitle>
+                            <unitdate normal="1963">1963</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_ae582b78550af837c8ba41742c732836" level="subgrp">
+                        <did>
+                            <unittitle>Board Staff, Alumni Auxiliary </unittitle>
+                            <unitdate normal="1961/1968">1961 - 1968</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_2aee07fb54e22e151af5ad8087d432f0" level="subgrp">
+                        <did>
+                            <unittitle>Joint Conference Committee </unittitle>
+                            <unitdate normal="1973/1978">1973 - 1978</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_525d93457e9bcc76164f4d139ad6d391" level="subgrp">
+                        <did>
+                            <unittitle>Medical Staff Minutes </unittitle>
+                            <unitdate normal="1894/1977">1894 - 1977</unitdate>
+                            <container type="box">1894-1956</container>
+                            <container type="box">1957-1977</container>
+                        </did>
+                        <c id="c_735fa1be4b105422ae906ae6653ebb06" level="subseries">
+                            <did>
+                                <unittitle>Box 1894-1956</unittitle>
+                                <unitdate normal="1894-01-30/1919-11-06">January 30, 1894 - November 6, 1919</unitdate>
+                            </did>
+                        </c>
+                    </c>
+                    <c id="c_29007ff1fc16b2a3da59e6de46e74d56" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Memorial Hospital Medical Staff </unittitle>
+                            <unitdate normal="1967/1987">1967 - 1987</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_8caf09271dd7682b3293342b396b3c3c" level="subgrp">
+                        <did>
+                            <unittitle>Medical Staff Committee </unittitle>
+                            <unitdate normal="1973/1988">1973 - 1988</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_85e90fc9e37d094f967d6003db530790" level="recordgrp">
+                <did>
+                    <unittitle>Bulletins</unittitle>
+                    <unitdate normal="1913/1994">1913 - 1994</unitdate>
+                </did>
+                <arrangement>
+                    <p>Components arranged by format. </p>
+                </arrangement>
+                <c id="c_5ded4f4093e7c3dcdf4f9e5e4dc5f17c" level="series">
+                    <did>
+                        <unittitle>Bound Crouse-Irving Hospital Bulletins </unittitle>
+                        <unitdate normal="1913/1967">1913 - 1967</unitdate>
+                        <abstract>Bound volumes of Crouse-Irving Hospital's Bulletins. </abstract>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                        </origination>
+                        <physdesc>
+                            <genreform>Bound Volumes </genreform>
+                        </physdesc>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_f4230c4e977e440c484a4c3811f20997" level="subgrp">
+                        <did>
+                            <unittitle>Volume 1 </unittitle>
+                            <unitdate normal="1913/1914">1913 - 1914</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_b41193e1911861b1040d552019f3f7f3" level="subgrp">
+                        <did>
+                            <unittitle>Volume 2</unittitle>
+                            <unitdate normal="1915">1915</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_9e247443742ceddb9b101f15332776ae" level="subgrp">
+                        <did>
+                            <unittitle>Volume 3</unittitle>
+                            <unitdate normal="1916">1916</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_f3629fdc36ca6eb05e5811d1bc8c4a0c" level="subgrp">
+                        <did>
+                            <unittitle>Volume 4 </unittitle>
+                            <unitdate normal="1917">1917</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_a78754d616f460b996344413c10ba2c9" level="subgrp">
+                        <did>
+                            <unittitle>Volume 5</unittitle>
+                            <unitdate normal="1918">1918</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_43edfe2a62503207c9a4f5a8720bfe0a" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 6,7,8</unittitle>
+                            <unitdate normal="1918/1921">1918 - 1921</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_33030286fd274208dae0cbd69242018f" level="subgrp">
+                        <did>
+                            <unittitle>Volumes[s] 9,10,11</unittitle>
+                            <unitdate normal="1922/1924">1922 - 1924</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_07211152d366a9e740c40e8f185f61cf" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 12,13,14</unittitle>
+                            <unitdate normal="1925/1927">1925 - 1927</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_4cf9a36e16b3df4ea1bed32251212d44" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 15,16,17</unittitle>
+                            <unitdate normal="1928/1930">1928 - 1930</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_c1984d432a0c83409fba76d8b1129d02" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 18,19,20</unittitle>
+                            <unitdate normal="1931/1933">1931 - 1933</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_5dffe9372b4762be9ca2d6d9af5d50d0" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 21,22,23</unittitle>
+                            <unitdate normal="1934/1936">1934 - 1936</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_fdac2ac2c711a5a8796dab12cbf42cc2" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 24,25,26</unittitle>
+                            <unitdate normal="1937/1939">1937 - 1939</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_1d67860e7f5749e0a18437ba923d6ca0" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 27,28,29,30,31</unittitle>
+                            <unitdate normal="1940/1944">1940 - 1944</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_a777603821b9f8da65339dc6752eddda" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 32,33,34,35,36,37,38,39,40</unittitle>
+                            <unitdate normal="1956/1961">1956 - 1961</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_d5fba8dfe8056cfad2c8ec28c47985b4" level="subgrp">
+                        <did>
+                            <unittitle>Volume[s] 38,39,40,41,42</unittitle>
+                            <unitdate normal="1962/1967">1962 - 1967</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_760aa3d03f6bfe0621f2113ee3d6f8d9" level="series">
+                    <did>
+                        <unittitle>Unbound Crouse-Irving Hospital Bulletins </unittitle>
+                        <unitdate normal="1922/1968">1922 - 1968</unitdate>
+                        <abstract>Unbound Crouse-Irving Hospital Bulletins. </abstract>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                        <container type="box">0010</container>
+                        <container type="box">0011</container>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_c57f9cec2f909e28d605e286af12d2ea" level="subgrp">
+                        <did>
+                            <unittitle>Unbound Crouse-Irving Hospital Bulletins </unittitle>
+                            <unitdate normal="1922/1944">1922 - 1944</unitdate>
+                            <container type="box">0010</container>
+                        </did>
+                    </c>
+                    <c id="c_ed51f42ce316b737c0dbd608ff871dee" level="subgrp">
+                        <did>
+                            <unittitle>Unbound Crouse-Irving Hospital Bulletins </unittitle>
+                            <unitdate normal="1956/1968">1956 - 1968</unitdate>
+                            <container type="box">0011</container>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_a9d222ba4d5adb91f8bf9633ff1d0668" level="series">
+                    <did>
+                        <unittitle>Bound Syracuse Memorial Hospital Bulletins (The Clock Tower)</unittitle>
+                        <unitdate normal="1956/1968">1956 - 1968</unitdate>
+                        <abstract>Bound copies of the Clock Tower, Syracuse Memorial Hospital's Bulletin. </abstract>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                        </origination>
+                        <physdesc>
+                            <genreform>Bound Volumes </genreform>
+                        </physdesc>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_72bb3e983a0d82669a8e25d79b77dd99" level="subgrp">
+                        <did>
+                            <unittitle>Clock Tower, March 1956, vol.19:2</unittitle>
+                            <unitdate normal="1956">1956</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_e4a8c4b48cf5965200e9f0396c7f3736" level="subgrp">
+                        <did>
+                            <unittitle>Clock Tower, 1962-1968</unittitle>
+                            <unitdate normal="1962/1968">1962 - 1968</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_899d048b45e1d34bcf6a00c3642a74e8" level="series">
+                    <did>
+                        <unittitle>Crouse Irving Memorial Hospital (The Pulse)</unittitle>
+                        <unitdate normal="1972/1994">1972 - 1994</unitdate>
+                        <abstract>Unbound copies of The Pulse, the Crouse Irving Memorial Hospital Bulletin. </abstract>
+                        <container type="box">0008</container>
+                        <container type="box">0009</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive</physloc>
+                    </did>
+                    <arrangement>
+                        <p>Subcomponents arranged chronologically.</p>
+                    </arrangement>
+                    <c id="c_6ef254a3e4f515c25b89446e2685968d" level="subgrp">
+                        <did>
+                            <unittitle>The Pulse </unittitle>
+                            <unitdate normal="1972/1986">1972 - 1986</unitdate>
+                            <container type="box">0008</container>
+                        </did>
+                    </c>
+                    <c id="c_1b04f492eb5d37fda2b00ab16f2cfee6" level="subgrp">
+                        <did>
+                            <unittitle>The Pulse </unittitle>
+                            <unitdate normal="1987/1994">1987 - 1994</unitdate>
+                            <container type="">0009</container>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_f5f80ad553c7867ce708805fb67cc91b" level="recordgrp">
+                <did>
+                    <unittitle>Crouse-Irving School of Nursing </unittitle>
+                    <unitdate normal="1887/1999">1887 - 1999</unitdate>
+                </did>
+            </c>
+            <c id="c_6ab22aff7224ca3516965f7a32dfb488" level="recordgrp">
+                <did>
+                    <unittitle>Department Papers </unittitle>
+                    <unitdate normal="1958/2000">1958 - 2000</unitdate>
+                </did>
+            </c>
+            <c id="c_5d269e518f35a25a4cfe04bd6d3b12d7" level="recordgrp">
+                <did>
+                    <unittitle>Financial </unittitle>
+                    <unitdate normal="1913/1930">1913 - 1930</unitdate>
+                </did>
+                <c id="c_3083f506b3d502528d87a54f560c19c3" level="series">
+                    <did>
+                        <unittitle>Audits </unittitle>
+                        <unitdate normal="1913/1930">1913 - 1930</unitdate>
+                        <origination>
+                            <corpname>Hurdman &amp; Cranstoun, CPAs </corpname>
+                        </origination>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <abstract>Audits: Syracuse Hospital for Women &amp; Children and Syracuse Memorial Hospital &amp; Community Chest.</abstract>
+                        <container type="box">0066</container>
+                        <container type="box">0067</container>
+                        <container type="box">0068</container>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                </c>
+                <c id="c_ce70cc10f841d01ab4ff49629f3149d4" level="series">
+                    <did>
+                        <unittitle>Financial Paperwork </unittitle>
+                        <unitdate normal="1913/1914">1913 - 1914</unitdate>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                        </origination>
+                        <container type="box">0069</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <physloc>Crouse Health Library Archives</physloc>
+                        <abstract>Financial Paperwork for the Crouse-Irving Hospital.</abstract>
+                    </did>
+                    <c id="c_e25c2dd60760acc6a8eb1ee30cc147be" level="subgrp">
+                        <did>
+                            <unittitle>Profits &amp; Losses </unittitle>
+                            <unitdate normal="1913/1914">1913 - 1914</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_a6fe7ed2850aa65e08bffe677f08027e" level="subgrp">
+                        <did>
+                            <unittitle>Bank Statements &amp; Cancelled Checks </unittitle>
+                            <unitdate normal="1913/1914">1913 - 1914</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_438790ef3a4ae451d880d93bd4a084f3" level="subgrp">
+                        <did>
+                            <unittitle>"The Work of C-I Hospital in the Community 1912-1926... History &amp; Financial Report for 1926" </unittitle>
+                            <physdesc>
+                                <genreform authfilenumber="300248280" source="aat">brochures</genreform>
+                            </physdesc>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_5e4f5aa25266bd07bbafcfea8c5113de" level="recordgrp">
+                <did>
+                    <unittitle>Foundation </unittitle>
+                    <unitdate normal="1926/1997">1926 - 1997</unitdate>
+                </did>
+                <c id="c_f7e4c9d3c3fa9c216ed32d6e9a8ac253" level="series">
+                    <did>
+                        <unittitle>Paper Ephemera </unittitle>
+                        <unitdate normal="1926/1999">1926 - 1999</unitdate>
+                        <abstract>Paper ephemera related to the Syracuse Memorial Hospital Foundation, Crouse-Irving Hospital Foundation, Crouse Irving Memorial Hospital Foundation, and Crouse Hospital Foundation.</abstract>
+                        <container type="box">0048</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_69a9bcbfc638d46edbe8705b4b68857d" level="subgrp">
+                        <did>
+                            <unittitle>Syracuse Memorial Hospital Campaign for $2,500,000</unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_25b991d0cd1e94f9d07cb2d8a1d45390" level="subgrp">
+                        <did>
+                            <unittitle>Campaign Scrapbook</unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_f430d8eb8400dfb296dcf70de1c3a64c" level="subgrp">
+                        <did>
+                            <unittitle>The New Crouse-Irving Hospital Fund... Looking Forward </unittitle>
+                            <unitdate normal="1965">1965</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_820f160a908e20b039f06bf0e937f75e" level="subgrp">
+                        <did>
+                            <unittitle>Board Manual</unittitle>
+                            <unitdate normal="1989">1989</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_776565f1a5678e6d3bea3f8724f30773" level="subgrp">
+                        <did>
+                            <unittitle>Foundations for the Future </unittitle>
+                            <unitdate normal="1995/1997">1995 - 1997</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_07e5ca1fc5d395b3b97a67bb2ee5d39c" level="subgrp">
+                        <did>
+                            <unittitle>Report on Giving </unittitle>
+                            <unitdate normal="1993/1999">1993 - 1999</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_a6fbded2fa1ee68bfd20b9d136f6e4d4" level="subgrp">
+                        <did>
+                            <unittitle>The History of the Crouse Irving Memorial Foundation 1974-1994</unittitle>
+                            <unitdate normal="1994">1994</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_e3ad53782fd4518fb2319211c475bc05" level="subgrp">
+                        <did>
+                            <unittitle>Stationary Samples </unittitle>
+                            <unitdate>Unknown </unitdate>
+                        </did>
+                    </c>
+                    <c id="c_8ce66de7ca4441ade07dcae68bc395c8" level="subgrp">
+                        <did>
+                            <unittitle>Delivering the Future Together </unittitle>
+                            <unitdate normal="1998">1998</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_2eddb74f5b626a4e753f9fae29475abd" level="series">
+                    <did>
+                        <unittitle>Event Programs </unittitle>
+                        <unitdate normal="1978/1993">1978 - 1993</unitdate>
+                        <abstract>Tribute Evening's event programs and materials. </abstract>
+                        <container type="box">0049</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_dc8d81e97de6c6ff9c78ed52e35b42b6" level="subgrp">
+                        <did>
+                            <unittitle>10th Anniversary [program] </unittitle>
+                            <unitdate normal="1978">1978</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_2d69101d7fe1e06ffbaf36f36cc16e2a" level="subgrp">
+                        <did>
+                            <unittitle>Tribute to Dr. Richard P. Schmidt &amp; Dr. Lewis W. Bluemle, Jr. [program] </unittitle>
+                            <unitdate normal="1979">1979</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_600cecefac75bb0528fc0e7f232e0303" level="subgrp">
+                        <did>
+                            <unittitle>Tribute to Margaret Northrup [program] </unittitle>
+                            <unitdate normal="1980">1980</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_4435cc48cd06700766ffd890902f611b" level="subgrp">
+                        <did>
+                            <unittitle>Tribute Honoring out Ares's Higher Education Institutions </unittitle>
+                            <unitdate normal="1982">1982</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_0db5405dbf31e731a188a8a3cd40be1e" level="subgrp">
+                        <did>
+                            <unittitle>Tribute Honoring our Hospital's Auxiliary [program] </unittitle>
+                            <unitdate normal="1983">1983</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_175392efdebeefe30ebb5c6fb36f73bf" level="subgrp">
+                        <did>
+                            <unittitle>Tribute Honoring Sister Patricia Ann Mulherin [program]</unittitle>
+                            <unitdate normal="1984">1984</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_70df96550b2328d4c5135d46a15e44da" level="subgrp">
+                        <did>
+                            <unittitle>Honoring our Nurses [program]</unittitle>
+                            <unitdate normal="1986">1986</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_6c7a7f270ec45ee649506ad1ce3e00f1" level="subgrp">
+                        <did>
+                            <unittitle>Centennial Year Honoring our Medical Staff [program]</unittitle>
+                            <unitdate normal="1987">1987</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_27d0d0fefce996786b1227a4c2b76f60" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Ronald N. Goddard [program] </unittitle>
+                            <unitdate normal="1988">1988</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_fdc265ad31cfa74268766fd88673c889" level="subgrp">
+                        <did>
+                            <unittitle>Honoring James H. Abbott [program, invitations, stationary] </unittitle>
+                            <unitdate normal="1989">1989</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_3a36edfafceb653911eee90391f89f4a" level="subgrp">
+                        <did>
+                            <unittitle>Honoring William A. Hiller [program/calendar] </unittitle>
+                            <unitdate normal="1990">1990</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_3897adcda0ba3c46534591c6f6742d11" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Hedwig Sulzle [program/calendar, guest list]</unittitle>
+                            <unitdate normal="1991">1991</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_c4f669877b925fb33fd0bdb5581d0d9a" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Orletta S. Vadenboncoeur [program/calendar]</unittitle>
+                            <unitdate normal="1992">1992</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_2fd6bc02e6d9c0e407dd2c3bfab42c7a" level="subgrp">
+                        <did>
+                            <unittitle>Honoring David G. Murray [program, postcard] </unittitle>
+                            <unitdate normal="1993">1993</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_470d2f93f456c55e74f2ae0ba2886458" level="series">
+                    <did>
+                        <unittitle>Event Programs</unittitle>
+                        <unitdate normal="1994/1997">1994 - 1997</unitdate>
+                        <abstract>Tribute Evening's event programs and materials. </abstract>
+                        <container type="box">0050</container>
+                        <container type="box">0050a</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_dda5b2a3014ed60f896a51cb68965550" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Central New York Community Foundation [program, table assignments, newspaper]</unittitle>
+                            <unitdate normal="1994">1994</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_48075a0b4078a7ca567b63892b68155c" level="subgrp">
+                        <did>
+                            <unittitle>Honoring James Maher [program]</unittitle>
+                            <unitdate normal="1995">1995</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_4cb2961bcc8007e851de38622ce28bfc" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Kenneth A. Shaw [program]</unittitle>
+                            <unitdate normal="1996">1996</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_0cedd97aaae1029301104e6a605aa1a1" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Ernest Sarason, MD [program] </unittitle>
+                            <unitdate normal="1997">1997</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_2c8adb11273341edf6f34f87f807bf53" level="subgrp">
+                        <did>
+                            <unittitle>Honoring Harold H. Wanamaker, MD [program, invitation]</unittitle>
+                            <unitdate normal="1998">1998</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_b9d61826f39ddfa9e62b3a8ccd04d7c3" level="subgrp">
+                        <did>
+                            <unittitle>Misc. Publications </unittitle>
+                            <unitdate normal="2000">2000</unitdate>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_029fcbe4556b774a8d064ba552455230" level="series">
+                    <did>
+                        <unittitle>Foundation Documents </unittitle>
+                        <unitdate normal="1984/1997">1984 - 1997</unitdate>
+                        <abstract>Documents related to the Crouse Irving Memorial Hospital Foundation and the Crouse Hospital Foundation. </abstract>
+                        <container type="box">0051</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_1bd9f9e76cfdc7f3ba5465ed44f3239c" level="subgrp">
+                        <did>
+                            <unittitle>A Special Newsletter for the Alumnae Association of Syracuse Memorial Hospital </unittitle>
+                            <unitdate normal="1996">1996</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_e2e4f78d98246d3a035ab8d308c7f6a9" level="subgrp">
+                        <did>
+                            <unittitle>The New Crouse Irving Memorial Medical Equipment Fund </unittitle>
+                            <unitdate normal="1984">1984</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_e349cc7290c0c1dbf2e2e3fd57a36d01" level="subgrp">
+                        <did>
+                            <unittitle>Dialogue: A Conversation with our Constitutents </unittitle>
+                            <unitdate normal="1996/1997">1996 - 1997</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_cab8d64cdc5150df32e47953c9de9ad6" level="recordgrp">
+                <did>
+                    <unittitle>History, general </unittitle>
+                    <unitdate normal="1887/1990">1887 - 1990</unitdate>
+                </did>
+                <c id="c_663b415747ed1ed564859fd97f2c5b8a" level="series">
+                    <did>
+                        <unittitle>History, Box 1</unittitle>
+                        <unitdate normal="1887/1987">1887 - 1987</unitdate>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <abstract>Two copies of "Crouse Irving Memorial Hospital 1887-1987- 100 Years of Caring," one bound and one unbound. </abstract>
+                        <container type="box">0016</container>
+                        <physloc>Crouse Health Library Archive </physloc>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                    </did>
+                    <c id="c_5f3de176b76ef2effa2f2597d15fa6c6" level="subgrp">
+                        <did>
+                            <unittitle>Unbound manuscript </unittitle>
+                            <unitdate normal="1887/1987">1887 - 1987</unitdate>
+                        </did>
+                    </c>
+                    <c id="c_bc747a911f9ce453868e30f1ca0ca39a" level="subgrp">
+                        <did>
+                            <unittitle>Bound manuscript </unittitle>
+                            <unitdate normal="1887/1987">1887 - 1987</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                            <physdesc>
+                                <genreform>Bound Volume </genreform>
+                            </physdesc>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_c1cc2c4e7ba6eb32fc8edba98c7c4daf" level="series">
+                    <did>
+                        <unittitle>History, Box 2</unittitle>
+                        <unitdate normal="1887/1975">1887 - 1975</unitdate>
+                        <abstract>Collection of paper ephemera. </abstract>
+                        <container type="box">0015</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_2ba4ad4dbbe63244ce7751e61bd137b2" level="subgrp">
+                        <did>
+                            <unittitle>History of Syracuse Memorial Hospital and School of Nursing </unittitle>
+                            <unitdate normal="1930">1930</unitdate>
+                            <origination>
+                                <persname>Curnalia, Marjorie </persname>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_636e6126fa430270e2c9937a99eeb961" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Memorial Hospital Chronology </unittitle>
+                            <unitdate normal="1991">1991</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5e2c9609ce3eb13f22321c66f50c748b" level="subgrp">
+                        <did>
+                            <unittitle>Newspaper clippings </unittitle>
+                            <unitdate normal="1929">1929</unitdate>
+                            <abstract>Various newspaper clippings about the completion of the Syracuse Memorial Hospital. </abstract>
+                        </did>
+                    </c>
+                    <c id="c_56701e573dd4893cae9861d7f04aa1f0" level="subgrp">
+                        <did>
+                            <unittitle>"Memorial Hospital- Medical Center Unit -Is Dedicated"</unittitle>
+                            <unitdate normal="1929">1929</unitdate>
+                            <abstract>Article printed in the Syracuse University Alumni News. </abstract>
+                            <origination>
+                                <corpname>Syracuse University Alumni Association</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_022be21ec2e6776b1f62954660d0fde6" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Memorial Hospital Mission Statement </unittitle>
+                            <unitdate normal="1975">1975</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_86707dd500bfbf74e917be1ff8b45349" level="subgrp">
+                        <did>
+                            <unittitle>"Two Mission Hours of Service" </unittitle>
+                            <unitdate normal="1962">1962</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                            <physdesc>
+                                <genreform authfilenumber="300248280" source="aat">brochures</genreform>
+                            </physdesc>
+                        </did>
+                    </c>
+                    <c id="c_349ae00ebdf89fa46dd1f84d1d62906e" level="subgrp">
+                        <did>
+                            <unittitle>Syracuse Memorial Hospital brochure </unittitle>
+                            <unitdate normal="1962">1962</unitdate>
+                            <physdesc>
+                                <genreform>Brochure </genreform>
+                            </physdesc>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_f97377ca52db097ecb436d3a42f6e6a0" level="subgrp">
+                        <did>
+                            <unittitle>"Hymn to Crouse Irving </unittitle>
+                            <unitdate>Unknown </unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_fec7bc807cf77d0b61c0cc1a47048cbf" level="subgrp">
+                        <did>
+                            <unittitle>Packet of Various Histories </unittitle>
+                            <unitdate normal="1937/1973">1937 - 1973</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                            <abstract>Packet accumulated by the Communications Department.</abstract>
+                        </did>
+                    </c>
+                    <c id="c_13114dbd2b34e817269ef2168d502ca9" level="subgrp">
+                        <did>
+                            <unittitle>Hospital Growth </unittitle>
+                            <unitdate normal="1938">1938</unitdate>
+                            <abstract>Chart that illustrates hospital growth.</abstract>
+                        </did>
+                    </c>
+                    <c id="c_c6956b4e812131f4341d3defc9887b3a" level="subgrp">
+                        <did>
+                            <unittitle>List of Medical Staff, Board of Trustees, and Items Laid in Cornerstone </unittitle>
+                            <unitdate normal="1887">1887</unitdate>
+                            <abstract>Badly burned.</abstract>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090021">Syracuse Hospital for Women and Children</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_e5791ae388c414f1d39b6c636a0b70bf" level="series">
+                    <did>
+                        <unittitle>History, Box 3 </unittitle>
+                        <unitdate normal="1926/1982">1926 - 1982</unitdate>
+                        <abstract>Promotional printed materials.</abstract>
+                        <container type="box">0019</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname>Syracuse Herald American Empire Magazine </corpname>
+                            <corpname>Empire Magazine </corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Archive </physloc>
+                    </did>
+                    <c id="c_643b2f13940247239ebcc371c3ed0b56" level="subgrp">
+                        <did>
+                            <unittitle>"A Day in the Life of a Hospital"</unittitle>
+                            <unitdate normal="1982">1982</unitdate>
+                            <origination>
+                                <corpname>Empire Magazine</corpname>
+                            </origination>
+                            <abstract>Promotional material published by Empire Magazine about Crouse Irving Memorial Hospital. </abstract>
+                        </did>
+                    </c>
+                    <c id="c_5033873841138cda609a6fa2e00eaad1" level="subgrp">
+                        <did>
+                            <unittitle>"Names That Will Live"</unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                            <abstract>Promotional printed material created by the Syracuse Memorial Hospital. </abstract>
+                        </did>
+                    </c>
+                    <c id="c_75423b39d8301ec40c15097f0c8ae171" level="subgrp">
+                        <did>
+                            <unittitle>"Crouse Irving Memorial Hospital's New Addition" </unittitle>
+                            <unitdate normal="1976">1976</unitdate>
+                            <abstract>Promotional material printed by the Syracuse Herald American Empire Magazine about Crouse Irving Memorial Hospital. </abstract>
+                            <origination>
+                                <corpname>Syracuse Herald American Empire Magazine </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_3c98e0b1f5a139ee191e79874d6eae77" level="series">
+                    <did>
+                        <unittitle>History, Box 4</unittitle>
+                        <unitdate normal="1887/1987">1887 - 1987</unitdate>
+                        <abstract>Collection of paper ephemera. </abstract>
+                        <container type="box">0093</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname>The Syracuse Hearld Journal </corpname>
+                            <corpname>John Russell Pope &amp; Dwight James Daum, Architects </corpname>
+                            <corpname>Syracuse University </corpname>
+                            <corpname>Syracuse Post</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname>Syracuse Journal </corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archive </physloc>
+                    </did>
+                    <c id="c_4f0f4cbda76226cfbb413c0b13465e40" level="subgrp">
+                        <did>
+                            <unittitle>Touching Lives for a Hundred Years </unittitle>
+                            <unitdate normal="1887/1987">1887 - 1987</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                            <abstract>Centennial calendar.</abstract>
+                        </did>
+                    </c>
+                    <c id="c_c8880b1c22eb7f5a6cdaf28a06377dc3" level="subgrp">
+                        <did>
+                            <unittitle>"Your Hospital... The Story of a Revolution" </unittitle>
+                            <unitdate normal="1952">1952</unitdate>
+                            <abstract>Article reprinted from The Syracuse Hearld-Journal, Hearld American. </abstract>
+                            <origination>
+                                <corpname>The Syracuse Hearld Journal</corpname>
+                                <persname>Covert, Cathy </persname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_6605c96c943b0d9ab176f8bec5e7e5ee" level="subgrp">
+                        <did>
+                            <unittitle>Architectural Drawing </unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <abstract>Architectural drawing of the City Hospital, Medical School, Memorial Hospital. </abstract>
+                            <origination>
+                                <corpname>John Russell Pope &amp; Dwight James Daum, Architects </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_4e2bb437f6d88c31c7ec69765ceb54f8" level="subgrp">
+                        <did>
+                            <unittitle>Property Maps- Irving Avenue </unittitle>
+                            <unitdate normal="1923">1923</unitdate>
+                            <abstract>Mounted on form core. </abstract>
+                            <origination>
+                                <corpname>Syracuse University </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_6b754c0cc749f4fae1cb28c768573f2d" level="subgrp">
+                        <did>
+                            <unittitle>"An Honor to the City- New Home of the Women's and Children's Hospital... History of the Institution During a Period of Eight Years"</unittitle>
+                            <unitdate normal="1895">1895</unitdate>
+                            <abstract>Full description of the Syracuse Hospital for Women and Children's new building. </abstract>
+                            <origination>
+                                <corpname>Syracuse Post</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_f126396fb3099005c0978763e57d484d" level="subgrp">
+                        <did>
+                            <unittitle>"Corner Stone Laid"</unittitle>
+                            <unitdate normal="1895">1895</unitdate>
+                            <abstract>Mounted. </abstract>
+                            <origination>
+                                <corpname>Syracuse Post </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_104d4af600940a8de6db47a0afe77b51" level="subgrp">
+                        <did>
+                            <unittitle>"The New Syracuse Memorial Hospital"</unittitle>
+                            <unitdate normal="1929">1929</unitdate>
+                            <origination>
+                                <corpname>Syracuse Post </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_72af5a8911597d576fc925d5a027e367" level="subgrp">
+                        <did>
+                            <unittitle>"Women Active in the Creation of the New Syracuse Memorial Hospital" </unittitle>
+                            <unitdate normal="1929">1929</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_7eddf90ce81fef58d4d8713d584458c7" level="subgrp">
+                        <did>
+                            <unittitle>"Hospital Certain, Raise $2,331,327"</unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <origination>
+                                <corpname>Syracuse Journal </corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_155f624c417a8cddebf15cb71bdf4ee0" level="series">
+                    <did>
+                        <unittitle>History, Box 5</unittitle>
+                        <unitdate normal="1926/1999">1926 - 1999</unitdate>
+                        <abstract>Copperplates used for publications.  </abstract>
+                        <container type="">0017</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                    <c id="c_dc111066c4fcc359e1610557d2c582b0" level="subgrp">
+                        <did>
+                            <unittitle>Nurses in the Service </unittitle>
+                            <unitdate normal="1999">1999</unitdate>
+                            <abstract>Copperplates. </abstract>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_6dd8d4ea4b3c40ef018b3588243f57c3" level="subgrp">
+                        <did>
+                            <unittitle>Names that will Live </unittitle>
+                            <unitdate normal="1926">1926</unitdate>
+                            <abstract>Copperplates.</abstract>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_221d0e9fc96b1a48c7f67b28289101ca" level="recordgrp">
+                <did>
+                    <unittitle>Other Publications </unittitle>
+                    <unitdate normal="1930/1999">1930 - 1999</unitdate>
+                </did>
+                <c id="c_4ed6e47e6c3d7f7fabaadf53957b61a2" level="series">
+                    <did>
+                        <unittitle>Other Publications, Box 1</unittitle>
+                        <unitdate normal="1930/1998">1930 - 1998</unitdate>
+                        <abstract>Publications from the Crouse-Irving Hospital, Crouse Irving Memorial Hospital, and Crouse Hospital. (For publications produced by departments, see name for department.)</abstract>
+                        <container type="box">0013</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                    <c id="c_51459d69fd98390debe5a075b7518671" level="subgrp">
+                        <did>
+                            <unittitle>Issues and Answers: A Summary of and Response to Topics Raised at the Monthly Employee Forum</unittitle>
+                            <unitdate normal="1984/1986">1984 - 1986</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_38fb584587e4e5950d79b0e00a02f4d8" level="subgrp">
+                        <did>
+                            <unittitle>Scoop &amp; Scope</unittitle>
+                            <unitdate normal="1972/1974">1972 - 1974</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_237a8855ab0b0ae4e93b58fa1f3c6119" level="subgrp">
+                        <did>
+                            <unittitle>Behind the Scenes (unbound)</unittitle>
+                            <unitdate normal="1975/1988">1975 - 1988</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_589208ff0a244339f729ea962d20e173" level="subgrp">
+                        <did>
+                            <unittitle>Behind the Scenes (bound)</unittitle>
+                            <unitdate normal="1976/1991">1976 - 1991</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_83fc61eebeab1decc9f56860a086f534" level="subgrp">
+                        <did>
+                            <unittitle>The Medical Dialogue</unittitle>
+                            <unitdate normal="1977">1977</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_0dba03e1bee6aca6292ed0ca47bd02d3" level="subgrp">
+                        <did>
+                            <unittitle>We Need a Name</unittitle>
+                            <unitdate normal="1968">1968</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_d1e1cc001bcc18bda51e103c5fee1fb1" level="subgrp">
+                        <did>
+                            <unittitle>You Name It</unittitle>
+                            <unitdate normal="1972">1972</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_3a45d557f4d2ba31b081d49839553f96" level="subgrp">
+                        <did>
+                            <unittitle>Employee Handbook </unittitle>
+                            <unitdate normal="1969">1969</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_b34f0d076b93d0dc32befc99d12fe1f1" level="subgrp">
+                        <did>
+                            <unittitle>Employee Handbook </unittitle>
+                            <unitdate normal="1972">1972</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_cf17c0ce1f88e5d1212b83efa7f71f04" level="subgrp">
+                        <did>
+                            <unittitle>Employee Handbook </unittitle>
+                            <unitdate normal="1976">1976</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_89b9762ff9010bc7cba26c1a295f9161" level="subgrp">
+                        <did>
+                            <unittitle>Information for the Patients </unittitle>
+                            <unitdate normal="1930">1930</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_c62d766fe5aa63033ce8ea2a6a7c8337" level="subgrp">
+                        <did>
+                            <unittitle>Information for the Patients </unittitle>
+                            <unitdate normal="1940">1940</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_5776416df4547e2568bd7d58f4101aae" level="subgrp">
+                        <did>
+                            <unittitle>A Vital Part of the Community </unittitle>
+                            <unitdate normal="1960">1960</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_d4bec541bec391c4458ad7e1d189445a" level="subgrp">
+                        <did>
+                            <unittitle>Doors Open for Nurses at CIMH in Syracuse </unittitle>
+                            <unitdate normal="1970">1970</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_794eb0713a4768cc19c4db046aa6802e" level="subgrp">
+                        <did>
+                            <unittitle>An Introduction to CIMH... Out Areas of Expertise Include...</unittitle>
+                            <unitdate normal="1989">1989</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_b369641e6a356070ed3bae4f41c97a7b" level="subgrp">
+                        <did>
+                            <unittitle>Help Yourself to Better Health </unittitle>
+                            <unitdate normal="1989">1989</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_9516f119234831605c9c62564da5bcf8" level="subgrp">
+                        <did>
+                            <unittitle>Speakers Bureau </unittitle>
+                            <unitdate normal="1990">1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_f3729df336fa8f51485fe560dcbca606" level="subgrp">
+                        <did>
+                            <unittitle>The Neonatal Intensive Care Nursery </unittitle>
+                            <unitdate normal="1980">1980</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_7ab0af39aed83e752e6bb6f2b42bc4e4" level="subgrp">
+                        <did>
+                            <unittitle>Make the Most of Your Career at CIMH </unittitle>
+                            <unitdate normal="1988">1988</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_3a310ea1ffee9abfd48da048c6577b6a" level="subgrp">
+                        <did>
+                            <unittitle>Crouse-Irving Crier </unittitle>
+                            <unitdate normal="1955">1955</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_ed080a9a757620bd12e2f3a4e33bd5e5" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Irving Hospital Letter News </unittitle>
+                            <unitdate normal="1959">1959</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090018">Crouse-Irving Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_982f00d940351cbafaa9f8ddf0c5ac14" level="subgrp">
+                        <did>
+                            <unittitle>People &amp; Health </unittitle>
+                            <unitdate normal="1962">1962</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_0c584fc7fb233d4a6b709194d2c716db" level="subgrp">
+                        <did>
+                            <unittitle>Introducing You to Syracuse Memorial Hospital </unittitle>
+                            <unitdate normal="1960">1960</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090024">Syracuse Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_66374c5d9c8ae1859144837aa8531d82" level="subgrp">
+                        <did>
+                            <unittitle>Welcome to Crouse-Irving Memorial Hospital </unittitle>
+                            <unitdate normal="1979">1979</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_93f37183c8b9302e7db6d24fb1471a64" level="subgrp">
+                        <did>
+                            <unittitle>25-Year Club Dinner </unittitle>
+                            <unitdate normal="1987">1987</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_d8df50f9c22fd62a5ae3ca818681be6a" level="subgrp">
+                        <did>
+                            <unittitle>Right to Know Program </unittitle>
+                            <unitdate normal="1992">1992</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+                <c id="c_598d10ff1b884aa25344ba8da11c2d63" level="series">
+                    <did>
+                        <unittitle>Other Publications, Box 2</unittitle>
+                        <unitdate normal="1988/1999">1988 - 1999</unitdate>
+                        <abstract>Publications from the Crouse-Irving Hospital, Crouse Irving Memorial Hospital, and Crouse Hospital. (For publications produced by departments, see name for department.)</abstract>
+                        <container type="box">0014</container>
+                        <langmaterial>
+                            <language langcode="eng">English</language>
+                        </langmaterial>
+                        <origination>
+                            <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                        </origination>
+                        <physloc>Crouse Health Library Archives </physloc>
+                    </did>
+                    <c id="c_a106a48bb3178ca004561c1dfb100706" level="subgrp">
+                        <did>
+                            <unittitle>STAT: A Bulletin for the Medical Staff of Crouse Irving Memorial Hospital </unittitle>
+                            <unitdate normal="1988/1996">1988 - 1996</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_64c1e45d7aaa5f00cba57a212c02cd0c" level="subgrp">
+                        <did>
+                            <unittitle>Crouse Community Center Residental Health Care Facilit</unittitle>
+                            <unitdate>1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_4b2557f4c3fb392cad485b28519f4e62" level="subgrp">
+                        <did>
+                            <unittitle>Nurses Notes </unittitle>
+                            <unitdate normal="1990/1994">1990 - 1994</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_1358e92530f911904afeca1bde0b548b" level="subgrp">
+                        <did>
+                            <unittitle>Become a Part of the Tradition </unittitle>
+                            <unitdate normal="1999">1999</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n2007090030">Crouse Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_744d9839a05e41e7032f9a7067381bc4" level="subgrp">
+                        <did>
+                            <unittitle>About Your One Day Surgery </unittitle>
+                            <unitdate normal="1995">1995</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                    <c id="c_569117b51b7bfd8a26be852bd48f171d" level="subgrp">
+                        <did>
+                            <unittitle>Babysitters Training Course </unittitle>
+                            <unitdate>1990</unitdate>
+                            <origination>
+                                <corpname source="lcnaf" authfilenumber="n86105401">Crouse Irving Memorial Hospital</corpname>
+                            </origination>
+                        </did>
+                    </c>
+                </c>
+            </c>
+            <c id="c_2ae4b00853d4a24200ebbbcbb77c8fc7" level="recordgrp">
+                <did>
+                    <unittitle>Permits</unittitle>
+                    <unitdate normal="1913/1930">1913 - 1930</unitdate>
+                </did>
+            </c>
+            <c id="c_5b87a62e5de00783bb89990fee7de281" level="recordgrp">
+                <did>
+                    <unittitle>Photographs </unittitle>
+                    <unitdate normal="1984/1997">1984 - 1997</unitdate>
+                </did>
+            </c>
+            <c id="c_1f3af766e468a903d66ad2a2b1b96175" level="recordgrp">
+                <did>
+                    <unittitle>Physicians' Papers </unittitle>
+                    <unitdate normal="1899/1900">1899 - 1900</unitdate>
+                </did>
+            </c>
+            <c id="c_7d42cee22a06beddc83b3fc846c5fce6" level="recordgrp">
+                <did>
+                    <unittitle>Planning </unittitle>
+                    <unitdate normal="1917">1917</unitdate>
+                </did>
+            </c>
+            <c id="c_eac364676732113d6d24c5d01a1845eb" level="recordgrp">
+                <did>
+                    <unittitle>Plaques </unittitle>
+                    <unitdate normal="1966">1966</unitdate>
+                </did>
+            </c>
+            <c id="c_0b1efb2c49a1328a81f156cb81f9e92b" level="recordgrp">
+                <did>
+                    <unittitle>Scrapbooks </unittitle>
+                    <unitdate normal="1925/1996">1925 - 1996</unitdate>
+                </did>
+            </c>
+            <c id="c_1f99ea6ccebe69db724a4af03966cc00" level="recordgrp">
+                <did>
+                    <unittitle>Sulzle Closet Inventory </unittitle>
+                    <unitdate normal="1927/2008">1927 - 2008</unitdate>
+                </did>
+            </c>
+            <c id="c_ae70bef93b367606616434019cf68d26" level="recordgrp">
+                <did>
+                    <unittitle>Syracuse Memorial Hospital School for Nursing </unittitle>
+                    <unitdate normal="1918/1968">1918 - 1968</unitdate>
+                </did>
+            </c>
+        </dsc>
+    </archdesc>
+</ead>
